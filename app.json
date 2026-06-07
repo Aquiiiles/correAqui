@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "CorreAqui",
+    "slug": "correAqui",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.correaqui.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2e8b57",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.correaqui.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
